@@ -1,0 +1,4 @@
+# WinApt Requirements
+# No external dependencies required for basic functionality
+# PyInstaller is needed for building the executable
+pyinstaller>=5.0
